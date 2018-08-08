@@ -1,9 +1,9 @@
 # Dev Ops 
 
-Build and Release 
-Code Scan 
-Run Sys Debugs for team 
-Track customer sightings and defects 
+Build and Release,
+Code Scan, 
+Run Sys Debugs for team, 
+Track customer sightings and defects, 
 Debug sw integration issues 
 
 
@@ -16,7 +16,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+
+sudo apt-get install libssl-dev
+
+
 ```
 
 ### Installing
@@ -26,7 +29,8 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+python -m pip install --upgrade pip 
+python -m pip install jupyter 
 ```
 
 And repeat
