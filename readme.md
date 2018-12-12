@@ -2,7 +2,7 @@
 
 ## Setup
 
-# Install git lfs for debian (Full instructions is here https://github.com/git-lfs/git-lfs/wiki/Installation )
+Install git lfs for debian (Full instructions is here https://github.com/git-lfs/git-lfs/wiki/Installation )
 
 ```
 echo 'deb http://http.debian.net/debian wheezy-backports main' > /etc/apt/sources.list.d/wheezy-backports-main.list
