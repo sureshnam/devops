@@ -1,4 +1,4 @@
-# Waymo Models, Graphs and Artifacts 
+## Waymo Models, Graphs and Artifacts 
 
 ## Setup
 
